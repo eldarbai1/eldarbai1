@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Eldar
 
-<!--
-**eldarbai1/eldarbai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering and Computer Science student with experience in mobile app development and data processing. I enjoy identifying inefficiencies, building practical software solutions, and working on projects with real-world impact.
 
-Here are some ideas to get you started:
+## Currently
+- Research Assistant working on financial data pipelines and analysis
+- Building software projects in Python and Java
+- Exploring mobile development, image processing, and computer architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • Java • C/C++ • MATLAB • Android Studio • Firebase • Git
+
+## Interests
+Mobile apps, automation, data analysis, image processing, IoT, chip design and manufacturing, and computer systems.
